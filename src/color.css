@@ -1,0 +1,13 @@
+.regbox{
+    width: 500px;
+    height: 500px;
+    margin:100px;
+    border-radius: 100px;
+    text-align:center;
+    background-color:rgb(153, 191, 216);
+    padding: 50px 0px 0px 0px;
+}
+.body{width: 500px;
+    text-align:center;
+    padding: 10px 0px 0px 100px;
+}
